@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/relic-test/static/css/main.1359096b.chunk.css",
+    "main.js": "/relic-test/static/js/main.5b72dce8.chunk.js",
+    "runtime-main.js": "/relic-test/static/js/runtime-main.5b340ee9.js",
+    "static/js/2.8da72ca4.chunk.js": "/relic-test/static/js/2.8da72ca4.chunk.js",
+    "index.html": "/relic-test/index.html",
+    "precache-manifest.1beda74b27e3f81afc3aeb705215399b.js": "/relic-test/precache-manifest.1beda74b27e3f81afc3aeb705215399b.js",
+    "service-worker.js": "/relic-test/service-worker.js",
+    "static/js/2.8da72ca4.chunk.js.LICENSE.txt": "/relic-test/static/js/2.8da72ca4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b340ee9.js",
+    "static/js/2.8da72ca4.chunk.js",
+    "static/css/main.1359096b.chunk.css",
+    "static/js/main.5b72dce8.chunk.js"
+  ]
+}
